@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+body,td,th {
+	font-family: "微软雅黑";
+	webkit-font-smoothing:antialiased;
+	font-size: 14px;
+	color: #717171;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
+div,li,h1,h2,form,input,p{margin:0;padding:0;}
+ol,ul,li,dd,dt,dl{ list-style:none;}
+img{border:0;}
+a:link {
+	color: #717171;
+	text-decoration: none;
+}
+a:visited {
+	color: #717171;
+	text-decoration: none;
+}
+a:hover {
+	color: #E8320D;
+	text-decoration: none;
+}
+a:active {
+	color: #717171;
+	text-decoration: none;
+}
+h1 {
+	font-size: 14px;
+	color: #717171;
+	font-weight: normal;
+}
+h2 {
+	font-size: 14px;
+	color: #FFF;
+	font-weight: normal;
+}
+.os_mac {
+font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Hiragino Sans GB","Hiragino Sans GB W3";
+}
+.bk {
+	border: 1px solid #E8320D;
+}
+.meua {
+	color: #E8320D;
+	text-decoration: none;
+}
+.meua a {
+	color: #E8320D;
+	text-decoration: none;
+}
+.meubg {
+	background-image: url(../images/meubg.jpg);
+	background-repeat: repeat-x;
+}
+.meubgm {
+	background-image: url(../images/meubgm.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.bcw {
+	color: #E8320D;
+	background-color: #FFF;
+	border: 1px solid #FFF;
+}
+.bcw a {
+	color: #E8320D;
+	background-color: #FFF;
+}
+.bcr {
+	color: #FFF;
+	background-color: #E8320D;
+	border: 1px solid #F4A57A;
+}
+.bcr a {
+	color: #FFF;
+	background-color: #E8320D;
+}
+.meujj {
+	background-image: url(../images/meujj.png);
+	background-repeat: no-repeat;
+	background-position: -1px top;
+	height: 63px;
+	line-height: 63px;
+}.d7 {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D7D7D7;
+}
+.ej {
+	background-color: #727071;
+	color: #FFF;
+}
+
+.ej a {
+	background-color: #727071;
+	color: #FFF;
+}
+.xxy {
+	border-right-width: 1px;
+	border-right-style: dashed;
+	border-bottom-style: dashed;
+	border-right-color: #807875;
+}
+.xxz {
+	border-left-width: 1px;
+	border-left-style: dashed;
+	border-bottom-style: dashed;
+	border-left-color: #807875;
+}
+.xxs {
+	border-top-width: 1px;
+	border-top-style: dashed;
+	border-top-color: #807875;
+}
+.xxx {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #807875;
+}
+.bk10px {
+	border: 10px solid #C9C9CB;
+}
+.bc16 {
+	font-size: 16px;
+	color: #E8320D;
+}
